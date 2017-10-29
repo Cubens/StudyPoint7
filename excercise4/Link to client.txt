@@ -1,0 +1,3 @@
+Link to deployed client:
+
+http://lasseseedclient.surge.sh/#/

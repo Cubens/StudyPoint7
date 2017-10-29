@@ -1,0 +1,3 @@
+Link to deployed server:
+
+http://138.68.102.162/seedMaven/
